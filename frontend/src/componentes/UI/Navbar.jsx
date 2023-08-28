@@ -1,12 +1,11 @@
-
-
+import "./Navbar.css"
 
 function Navbar (){
     return(
-        <div>
+        <nav>
             <a>Home</a>
             <a>Notes</a>
-        </div>
+        </nav>
     )
 }
 
